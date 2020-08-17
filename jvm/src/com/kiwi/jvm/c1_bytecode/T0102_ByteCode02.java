@@ -5,5 +5,7 @@ public class T0102_ByteCode02 {
         int i=0;
         int j = i++;
     }
+
+    void qq(){}
 }
 

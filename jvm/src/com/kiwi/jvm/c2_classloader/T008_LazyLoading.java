@@ -7,7 +7,7 @@ public class T008_LazyLoading { //严格讲应该叫lazy initialzing，因为jav
 //        System.out.println(P.i);
 //        System.out.println(P.j);
         Class.forName("com.kiwi.jvm.c2_classloader.T008_LazyLoading$P");
-
+        System.out.println("qqs");
     }
 
     public static class P {
